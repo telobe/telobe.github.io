@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 我的个人博客</title>
+    <link>https://telobe.github.io/post/</link>
+    <description>Recent content in Posts on 我的个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Sep 2019 20:15:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://telobe.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>黄健健的情书</title>
+      <link>https://telobe.github.io/post/test/</link>
+      <pubDate>Sun, 29 Sep 2019 20:15:53 +0800</pubDate>
+      
+      <guid>https://telobe.github.io/post/test/</guid>
+      <description>想多亲亲我身边的风，说不定哪天它就吹到你脸上了。 我的酒量大概就是一打啤酒或者半斤白酒，再或者你的四两微笑。 我寻了半生的春天，你一笑便是了。 我见过的最美的春天，是你穿过人群找到我的那个四月。 我想和你见面，地点你选，森林、沙漠、世界尽头的星空，草原、海边、清晨大雾的胡同，只要别在梦中。 后来，除了梦以外的地方我就没有见过你了。 我从未拥有过你一秒钟，心里却失去过你千万次。 螃蟹在剥我的壳，笔记本在写我。漫天的我落在枫叶上雪花上。而你在想我。 从遇见你的那一天起，我所走的每一步都是为了更接近你。 你说的每句漫不经心的话，全在我心头开成了漫山遍野的花。 你喜欢我是始料未及的欢愉，你不喜欢我是万物如常的命理。</description>
+    </item>
+    
+  </channel>
+</rss>
